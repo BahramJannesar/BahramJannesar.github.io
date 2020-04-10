@@ -1,3 +1,2 @@
-this is my personal website 
 
-Created by [my bro:green_heart:](https://github.com/ahmdrz)
+this is my personal website and created by [my brother:green_heart:](https://github.com/ahmdrz)
