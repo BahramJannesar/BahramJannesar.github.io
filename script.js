@@ -1,5 +1,5 @@
 var i = 0;
-var txt = "In_God['not that great god'] = pd.read_csv('we trust, all others must bring data.csv', index_col='Human')";
+var txt = "In God we trust, all others must bring data";
 var speed = 50;
 
 function typeWriter() {
