@@ -1,5 +1,5 @@
 var i = 0;
-var txt = "In God we trust, all others must bring data";
+var txt = "In God we trust. All others must bring data.";
 var speed = 50;
 
 function typeWriter() {
